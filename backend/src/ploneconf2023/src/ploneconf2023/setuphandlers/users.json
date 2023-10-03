@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "bauer@starzel.de",
+      "properties": {
+        "fullname": "Plone Conference Training",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "ploneconf2023"
+    }
+  ],
+    "team": [
+  ]
+}
