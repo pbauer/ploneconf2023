@@ -4,6 +4,7 @@ const applyConfig = (config) => {
     isMultilingual: false,
     supportedLanguages: ['en'],
     defaultLanguage: 'en',
+    openExternalLinkInNewTab: true,
   };
   return config;
 };
